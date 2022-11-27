@@ -18,4 +18,4 @@ Subnet division as follows
 
 IP division
 
-
+![table_division](/img/table_division.png)
